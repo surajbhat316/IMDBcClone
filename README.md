@@ -1,7 +1,7 @@
 # IMDBcClone
 <h1>Clone of IMDB website</h1>
 
-<h1><b>Please Add this URL To your Allow Insecure Page Content List in your browser in case the search doesn't work<</b>/h1>
+<h1><b>Please Add this URL To your Allow Insecure Page Content List in your browser in case the search doesn't work</b></h1>
 <p>https://github.com/surajbhat316/IMDBcClone/edit/main/README.md</p>
 
 <p>This is a clone of the IMDB website</p>
