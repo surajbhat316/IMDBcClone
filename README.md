@@ -1,6 +1,9 @@
 # IMDBcClone
 <h1>Clone of IMDB website</h1>
 
+<h1><b>Please Add this URL To your Allow Insecure Page Content List in your browser in case the search doesn't work<</b>/h1>
+<p>https://github.com/surajbhat316/IMDBcClone/edit/main/README.md</p>
+
 <p>This is a clone of the IMDB website</p>
 <p>The website has a functionality of Search using which a user can search for a movie and get the respective results</p>
 <p>It Uses OMDB API to fetch the information about the movie based on the name entered by the user in the search bar</p>
