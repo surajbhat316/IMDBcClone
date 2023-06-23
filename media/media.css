@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+
+    h2{
+        font-size: 40px;
+        margin: 10%;
+    }
+    #image-container{
+        width: 90% !important;
+        height: 50% !important;
+    }
+
+    #movie-info{
+        width: 80% !important;
+        margin-top: 10% !important ;
+        padding: 10px;
+    }
+    #movie-info p{
+        line-height: 1.75rem;
+    }
+}
+
