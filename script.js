@@ -98,7 +98,7 @@ function updateLocalStorage(favourites){
  * function that hits the OMDB API and returns the relevant information for the searched 
  */
 function fetchMovieData(movieName){
-    fetch("http://www.omdbapi.com/?apikey="+API_KEY+"&t="+ movieName)
+    fetch("https://www.omdbapi.com/?apikey="+API_KEY+"&t="+ movieName)
     .then(
         function (response){
             return response.json();
