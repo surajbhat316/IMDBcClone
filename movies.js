@@ -28,7 +28,7 @@ window.onload = () =>{
  * Method that performs the actual fetch
  */
 function fetchMovieData1(movieName){
-    fetch("http://www.omdbapi.com/?apikey="+API_KEY+"&t="+ movieName)
+    fetch("https://www.omdbapi.com/?apikey="+API_KEY+"&t="+ movieName)
     .then(
         function (response){
             return response.json();
